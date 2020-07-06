@@ -1,0 +1,78 @@
+body {
+  font-size: 16px;
+  color: black;
+  background-color: white;
+  font-family: 'Oxygen', sans-serif;
+}
+
+
+#header-nav {
+  background-color: lightseagreen;
+  border-radius: 0;
+  border: 0;
+  
+  height: 100px;
+  transition: top 0.8s;
+}
+
+
+
+
+.navbar-brand h1 { 
+  color: black;
+  font-size: 1.5em;
+  text-align: left;
+  text-shadow: 1px 1px 1px #222;
+  margin-top: 20px;
+  margin-bottom: 0;
+  line-height: .75;
+}
+
+h3 {
+   text-align: center;
+
+
+
+}
+
+#title {
+  text-align: center;
+  font-size: 1.2em;
+
+
+
+}
+
+#box {
+  background-color: yellow;
+  border: 3px solid black;
+  
+  float: left;
+  margin: 10px;
+  margin-top: 150px;
+  width: 100%;
+
+
+
+
+}
+
+.row {
+  margin: -10;
+
+
+
+}
+
+#nav-list {
+  margin-top: 10px;
+}
+#nav-list {
+  
+  text-align: center;
+  font-size: 1.2em;
+  background-color: orange;
+
+}
+
+ 
